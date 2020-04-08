@@ -5,11 +5,9 @@
   "main": "lib/index.js",
   "files": [
     "decls",
-    "src",
     "lib",
     "matchers.js",
-    "providers.js",
-    "*.d.ts"
+    "providers.js"
   ],
   "scripts": {
     "build": "babel src --out-dir lib --ignore __mocks__",
