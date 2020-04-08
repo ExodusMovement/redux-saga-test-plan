@@ -1,6 +1,6 @@
 {
-  "name": "redux-saga-test-plan",
-  "version": "4.0.0-rc.3",
+  "name": "@exodus/redux-saga-test-plan",
+  "version": "4.0.0-rc.3-exodus0",
   "description": "Test Redux Saga with an easy plan",
   "main": "lib/index.js",
   "files": [
